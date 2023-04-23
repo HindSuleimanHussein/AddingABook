@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="choose_book_type">Choose Book Type</string>
+    <string name="show">Show</string>
+    <string name="add_a_new_book">Add a New Book</string>
+    <string name="add_a_book">Add a Book</string>
+    <string name="programming">Programming</string>
+    <string name="science">Science</string>
+    <string name="med">Med</string>
+    <string name="cultural_studies">Cultural Studies</string>
+    <string name="available">Available</string>
+    <string name="pages">Pages</string>
+    <string name="type">Type</string>
+    <string name="book_title">Adding A Book</string>
+    <string name="adding_a_book">Book Title</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+    <string name="save">Save</string>
+
+    <string-array name="Types">
+        <item>Programming</item>
+        <item>Science</item>
+        <item>Cultural Studies</item>
+        <item>Medicine</item>
+    </string-array>
+
+</resources>
